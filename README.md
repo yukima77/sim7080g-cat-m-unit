@@ -1,7 +1,7 @@
 # sim7080g-cat-m-unit
 
 ## 概要
-Grove互換コネクタ(HY2.0-4Pインターフェイス)に対応したSIM7080G搭載CAT-Mユニットです。M5Stack社のM5Stamp CAT-M Module (SIM7080G)を搭載しています。M5Stackなどの接続して使用することができます。
+Grove互換コネクタ(HY2.0-4Pインターフェイス)に対応したSIM7080G搭載CAT-Mユニットです。M5Stack社のM5Stamp CAT-M Module (SIM7080G)を搭載しています。M5Stackなどを接続して使用することができます。
 
 ![](https://github.com/yukima77/sim7080g-cat-m-unit/blob/images/001.png)
 
